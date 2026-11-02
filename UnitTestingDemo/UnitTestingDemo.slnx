@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/1. Original/">
+    <Project Path="1. Original/UnitTestingDemo.Original/UnitTestingDemo.Original.csproj" />
+    <Project Path="1. Original/UnitTestingDemo.Tests.Original/UnitTestingDemo.Tests.Original.csproj" />
+  </Folder>
+  <Folder Name="/2. Transitional/">
+    <Project Path="2. Transitional/UnitTestingDemo.Tests.Transitional/UnitTestingDemo.Tests.Transitional.csproj" Id="2c3261ac-0174-4e10-8ae5-33d438fe1709" />
+    <Project Path="2. Transitional/UnitTestingDemo.Transitional/UnitTestingDemo.Transitional.csproj" Id="5a2e3382-e65a-4ab1-a637-af1a74286586" />
+  </Folder>
+  <Folder Name="/3. Final/">
+    <Project Path="3. Final/UnitTestingDemo.Final/UnitTestingDemo.Final.csproj" />
+    <Project Path="3. Final/UnitTestingDemo.Tests.Final/UnitTestingDemo.Tests.Final.csproj" />
+  </Folder>
+  <Project Path="UnitTestingDemo.Helpers/UnitTestingDemo.Helpers.csproj" Id="5c44b2ed-476e-46b9-81c3-a701164d29f2" />
+  <Project Path="UnitTestingDemo.Tests/UnitTestingDemo.Tests.csproj" />
+  <Project Path="UnitTestingDemo/UnitTestingDemo.csproj" />
+</Solution>
